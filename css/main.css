@@ -2,7 +2,7 @@ input:focus{
     outline: none;
 }
 
-.navbar {
+.navbar{
     width: 100%;
     height: 90px;
     background: #134013;
@@ -64,4 +64,8 @@ section.home img{
     height:370px;
     background:#00000086;
     border-radius:  20px 0 0 20px ;
+}
+
+.history-texts{
+    color: #;
 }
