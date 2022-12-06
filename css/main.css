@@ -58,5 +58,6 @@ section.home img{
 .history-of-georgia {
     width: 700px;
     height:400px;
-    bg
+    background:#000;
+    border-radius: 20px 0 20px 0;
 }
