@@ -1,0 +1,44 @@
+input:focus{
+    outline: none;
+}
+
+
+
+
+
+.navbar {
+    width: 100%;
+    height: 120px;
+    background: #134013;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 75px;
+}
+
+.navbar-texts{
+    display: flex;
+    align-items: center;
+}
+
+.navbar-texts li{
+    margin: 0 15px;
+    cursor: pointer;
+    list-style: none;
+}
+
+.navbar-texts li a{
+    color: white;
+    text-decoration: none;
+    font-size: 1.3em;
+}
+
+.navbar .image img{
+    height: 50px;
+}
+
+.navbar input{
+    border-radius: 20px;
+    text-indent: 10px;
+    border: none;
+}
