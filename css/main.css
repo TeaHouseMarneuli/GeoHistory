@@ -64,8 +64,19 @@ section.home img{
     height:370px;
     background:#00000086;
     border-radius:  20px 0 0 20px ;
+    display: flex; 
+    align-items: center;
 }
 
 .history-texts{
-    color: #;
+    color: #fff;
+    font-size: 70px;
+    text-align: center;
+    margin: auto;
+    font-weight: 500;
+ }
+
+.georgia-text {
+    color: green;
+    font-size: 90px;
 }
