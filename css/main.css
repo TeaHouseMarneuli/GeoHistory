@@ -47,7 +47,19 @@ input:focus{
     border: none;
 }
 
+.search{
+    width: 200px;
+    position: relative;
+    height: 25px;
+}
 
+.searchbar{
+    width: 250px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
 
 section.home{
     width: 100%;
