@@ -103,3 +103,9 @@ section.home img{
 .img-vector{
     width: 1759px ;
 }
+
+.card{
+    width:300px;
+    height:160px;
+    background: grey;
+}
