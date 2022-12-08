@@ -1,6 +1,8 @@
-.body{
-    
+*{
+    font-family: 'K2D', sans-serif !important;    
 }
+
+@import url('https://fonts.googleapis.com/css2?family=K2D:wght@300&display=swap');
 
 input:focus{
     outline: none;
@@ -84,3 +86,11 @@ section.home img{
     color: green;
     font-size: 90px;
 }
+
+.line{
+    height: 10px;
+    width: 100%;
+    opacity: 0.7;
+}
+
+
