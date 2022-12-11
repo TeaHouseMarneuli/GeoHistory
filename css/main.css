@@ -171,7 +171,7 @@ section.home img{
 }
 
 .categories{
-    height: 800px;
+    height: 500px;
     background: white;
 }
 
@@ -191,7 +191,7 @@ section.home img{
 .cate-card{
     width: 300px;
     height: 200px;
-    margin: 100px;
+    margin-left: 110px;
     position: absolute;
     display: flex;
     align-items: center;
